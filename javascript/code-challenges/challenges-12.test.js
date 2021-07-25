@@ -3,7 +3,7 @@
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 1 - Review
 
-Write a function named replaceZeros that, given a string, uses Regex to replace all '0' with the word 'zero'. 
+Write a function named replaceZeros that, given a string, uses Regex to replace all '0' with the word 'zero'.
 ------------------------------------------------------------------------------------------------ */
 
 const replaceZeros = (string) => {
@@ -94,6 +94,7 @@ Return either true or false.
 
 const validatePhoneNumber = (phoneNumber) => {
   // Solution code here...
+  // eslint-disable-next-line no-useless-escape
   return /^((\(\d{3}\))|\d{3})(\s|\-)?\d{3}(\s|\-)?\d{4}$/.test(phoneNumber);
 };
 
@@ -106,6 +107,7 @@ For example, findTagNames(['<h1>Hello, world!</h1>', '<p>Welcome to my site</p>'
 findTagNames(['<div><h1>Hello, world!</h1></div>', '<p>Welcome to my site</p>']) returns ['/h1', '/div', '/p'].
 ------------------------------------------------------------------------------------------------ */
 
+// eslint-disable-next-line no-unused-vars
 const findTagNames = elements => {
   // Solution code here...
 };
