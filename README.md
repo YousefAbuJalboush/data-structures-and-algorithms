@@ -24,4 +24,5 @@ To run your tests
 
 | Table Of Content                               | Links                                       |
 | ---------------------------------------------- | ------------------------------------------- |
-| Code Challenge: Class 01                       | [Array Reverse : Code Challenge](python/array_reverse/README.md)
+| Code Challenge: Class 01                       | [Array Reverse : Code Challenge](python/array_reverse/README.md)|
+| Code Challenge: Class 03                       | [Binary search in a sorted 1D array : Code Challenge](python/array-binary-search/README.md)|
