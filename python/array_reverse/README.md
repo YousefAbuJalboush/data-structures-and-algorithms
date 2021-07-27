@@ -6,4 +6,4 @@
 
 ## Whiteboard Process
 
-![whiteboard](./arrayReverse.jpg)
+![whiteboard](./array-reverse-new.jpg)
